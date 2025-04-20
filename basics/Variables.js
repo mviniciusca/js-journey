@@ -22,4 +22,3 @@ let score = 95;
 let grade = "A";
 console.log("Score: " + score);
 
-
