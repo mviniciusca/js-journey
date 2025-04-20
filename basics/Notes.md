@@ -16,5 +16,17 @@ Definition: A variable is a named storage location in memory that can hold a val
 source: [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/Your_first_website/Adding_interactivity)
 
 
-### Constants 
+##### Constants 
 Definition: A constant is a variable that cannot be changed. You can think of it as a box that is locked and cannot be opened. You can put things in the box, but you cannot take them out or change them.
+
+##### Primitive Types
+
+Definition: A primitive type is a data type that is not an object and has no methods. The primitive types are:
+- String
+- Number
+- Boolean
+- Undefined
+- Null
+- Symbol (new in ES6)
+- BigInt (new in ES11)
+source: [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#primitive_values)
