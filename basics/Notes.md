@@ -14,3 +14,7 @@ Definition: A variable is a named storage location in memory that can hold a val
 | Object | This can be anything. Everything in JavaScript is an object and can be stored in a variable. Keep this in mind as you learn. All of the above examples too. | `let myVariable = document.querySelector('h1');` |
 
 source: [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/Your_first_website/Adding_interactivity)
+
+
+### Constants 
+Definition: A constant is a variable that cannot be changed. You can think of it as a box that is locked and cannot be opened. You can put things in the box, but you cannot take them out or change them.
