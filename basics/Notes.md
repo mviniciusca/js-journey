@@ -30,3 +30,22 @@ Definition: A primitive type is a data type that is not an object and has no met
 - Symbol (new in ES6)
 - BigInt (new in ES11)
 source: [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#primitive_values)
+
+
+###### Math Operations
+| Operation | Description | Example |
+|---|---|---|
+| + | Addition | `let sum = 1 + 2;` |
+| - | Subtraction | `let difference = 2 - 1;` |
+| * | Multiplication | `let product = 2 * 3;` |
+| / | Division | `let quotient = 6 / 2;` |
+| % | Modulus | `let remainder = 5 % 2;` |
+| ** | Exponentiation | `let power = 2 ** 3;` |
+| ++ | Increment | `let x = 1; x++;` |
+| -- | Decrement | `let x = 1; x--;` |
+| += | Addition assignment | `let x = 1; x += 2;` |
+| -= | Subtraction assignment | `let x = 1; x -= 2;` |
+| *= | Multiplication assignment | `let x = 1; x *= 2;` |
+| /= | Division assignment | `let x = 1; x /= 2;` |
+| %= | Modulus assignment | `let x = 1; x %= 2;` |
+| **= | Exponentiation assignment | `let x = 1; x **= 2;` |
