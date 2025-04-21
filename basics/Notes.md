@@ -49,3 +49,20 @@ source: [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/D
 | /= | Division assignment | `let x = 1; x /= 2;` |
 | %= | Modulus assignment | `let x = 1; x %= 2;` |
 | **= | Exponentiation assignment | `let x = 1; x **= 2;` |
+
+### ## Functions
+
+**Parameter vs Argument**
+
+*   **Parameter:** The variable listed inside the parentheses in the function **definition**. It acts as a placeholder for the value that will be passed in.
+*   **Argument:** The actual **value** that is passed to the function when it is **called**.
+
+Example:
+```javascript
+// 'name' is the parameter
+function greet(name) {
+  console.log(`Hello, ${name}!`);
+}
+
+// 'Alice' is the argument
+greet('Alice'); 
