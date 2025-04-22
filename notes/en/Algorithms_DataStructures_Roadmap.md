@@ -43,7 +43,7 @@ Learn the definition, properties, common operations (insertion, deletion, search
 7.  **Heaps:**
     *   Min-Heap and Max-Heap properties.
     *   Implementation (usually using arrays).
-    *   Heapify, insert, extract-min/max operations.
+    *   Heapify, insert, extract-min/max operations.c
     *   Applications (e.g., Priority Queues, Heapsort).
 8.  **Graphs:**
     *   Graph terminology (vertex, edge, directed, undirected, weighted).
