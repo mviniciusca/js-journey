@@ -35,3 +35,5 @@ const expiryDate = "12/25";
 
 // test events 
 let eventName = "JavaScript Conference";
+let eventDate = "2024-09-15";
+let eventLocation = "San Francisco";
