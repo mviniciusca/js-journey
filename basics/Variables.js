@@ -1,11 +1,11 @@
 // This is a JavaScript file that demonstrates variable declaration and usage
 
 // var 
-var firstName = "John"; 
+var firstName = "John";
 var lastName = "Doe";
 var fullName = firstName + " " + lastName;
-var age = 34; 
-var isEmployed = true; 
+var age = 34;
+var isEmployed = true;
 
 console.log("Name: " + fullName); // deprecated we must use const or let
 
