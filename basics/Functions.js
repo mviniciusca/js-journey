@@ -7,14 +7,24 @@ function helloWorld() {
 
 console.log(helloWorld()); // Hello World
 
-function sum (x, y) {
+function sum(x, y) {
     return x + y;
 }
 
 console.log(sum(5, 10)); // 15
 
 
-function divide (x, y) {
+function divide(x, y) {
     return x / y;
 }
 console.log(divide(10, 5)); // 2
+
+function rainOrShine(isRaining) {
+    if (isRaining) {
+        return "Take an umbrella!";
+    } else {
+        return "Enjoy the sunshine!";
+    }
+}
+
+console.log(rainOrShine(true));
