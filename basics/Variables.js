@@ -27,3 +27,6 @@ console.log("Score: " + score);
 let street = "123 Main St";
 let cityAddress = "New York";
 let zipCode = "10001";
+
+// card numbers 
+const cardNumber = "1234-5678-9012-3456";
