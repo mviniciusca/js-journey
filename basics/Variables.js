@@ -41,3 +41,6 @@ let eventLocation = "San Francisco";
 // demo accounts 
 const demoUsername = "demoUser";
 const demoPassword = "demoPass123";
+
+// show  variables
+console.log("Address: " + street + ", " + cityAddress + ", " + zipCode);
