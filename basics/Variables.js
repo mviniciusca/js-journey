@@ -22,3 +22,7 @@ let score = 95;
 let grade = "A";
 console.log("Score: " + score);
 
+// address fields 
+
+let street = "123 Main St";
+
