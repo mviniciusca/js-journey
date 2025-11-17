@@ -44,3 +44,6 @@ const demoPassword = "demoPass123";
 
 // show  variables
 console.log("Address: " + street + ", " + cityAddress + ", " + zipCode);
+
+// type of variables
+console.log("Type of age: " + typeof age);
