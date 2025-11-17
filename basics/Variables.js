@@ -30,3 +30,5 @@ let zipCode = "10001";
 
 // card numbers 
 const cardNumber = "1234-5678-9012-3456";
+const cardHolder = "John Doe";
+const expiryDate = "12/25";
