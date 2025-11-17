@@ -25,4 +25,5 @@ console.log("Score: " + score);
 // address fields 
 
 let street = "123 Main St";
-
+let cityAddress = "New York";
+let zipCode = "10001";
