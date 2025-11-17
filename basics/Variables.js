@@ -37,3 +37,7 @@ const expiryDate = "12/25";
 let eventName = "JavaScript Conference";
 let eventDate = "2024-09-15";
 let eventLocation = "San Francisco";
+
+// demo accounts 
+const demoUsername = "demoUser";
+const demoPassword = "demoPass123";
